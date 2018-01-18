@@ -1,4 +1,5 @@
 ![Ginkgo: A Go BDD Testing Framework](http://onsi.github.io/ginkgo/images/ginkgo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fginkgo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fginkgo?ref=badge_shield)
 
 [![Build Status](https://travis-ci.org/onsi/ginkgo.svg)](https://travis-ci.org/onsi/ginkgo)
 
@@ -115,6 +116,9 @@ Go explore!
 ## License
 
 Ginkgo is MIT-Licensed
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fginkgo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fginkgo?ref=badge_large)
 
 ## Contributing
 
